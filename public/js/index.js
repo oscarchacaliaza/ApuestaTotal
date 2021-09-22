@@ -37,5 +37,15 @@ $(document).ready(function() {
 	});
 	// FIN INICIAR SESION
 
+
+	// INICIO USABILIDAD
+	$('#contrasena').keypress(function(e){
+		if(e.which == 13){
+			event.preventDefault();
+			$("#btnIniciarSesion").click();
+		}
+	});
+	// FIN USABILIDAD
+
 });
 // FIN DEL DOCUMENT READY
