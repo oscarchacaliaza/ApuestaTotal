@@ -1,5 +1,5 @@
 # Mini sistema de Apuesta Total
-Posee el módulo de depositos, el cual al ingresar el número de documento de identidad devuelve los datos del cliente y un historial de depósitos. El sistema permite agregar depósitos bancarios o en efectivo.
+Posee el módulo de depósitos, el cual al ingresar el número de documento de identidad devuelve los datos del cliente y un historial de depósitos. El sistema permite agregar depósitos bancarios o en efectivo.
 
 ## Caracteristicas
 
