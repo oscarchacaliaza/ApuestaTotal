@@ -4,7 +4,7 @@ Posee el módulo de depósitos, el cual al ingresar el número de documento de i
 ## Caracteristicas
 
   * PHP 5.6.40.
-  * MySQL - 8.
+  * MySQL 8.
 
 ## Compatibilidad
 
